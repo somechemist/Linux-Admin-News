@@ -1,5 +1,3 @@
-#!usr/bin/env python3
-#
 # 10/5/21 Justin Powell
 #
 # This app will allow you to access news and other information to start your day as a linux admin
@@ -7,6 +5,8 @@
 # Hope you find this useful
 #
 # App uses kivy.app, webbrowser and datetime(only for the easter egg)
+#
+# To get kivy, (tested on kali), sudo apt install python3-kivy
 #
 # for use on linux:
 # to make it executable: chmod +x adminnews.py
